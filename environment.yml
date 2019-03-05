@@ -8,3 +8,4 @@ dependencies:
   - r-gganimate
   - r-units
   - r-sf
+  - r-lpsolve
