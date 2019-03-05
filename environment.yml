@@ -6,3 +6,5 @@ dependencies:
   - r-irkernel
   - r-ggplot2
   - r-gganimate
+  - r-units
+  - r-sf
