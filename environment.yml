@@ -1,5 +1,8 @@
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - r
   - r-irkernel
+  - r-ggplot2
+  - r-gganimate
