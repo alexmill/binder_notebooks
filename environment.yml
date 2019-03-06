@@ -9,3 +9,4 @@ dependencies:
   - r-units
   - r-sf
   - r-lpsolve
+  - r-devtools
